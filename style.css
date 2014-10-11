@@ -4,27 +4,38 @@ body{
 }
 	div
 {
-	margin-left:140px;
-	margin-top: 40px;
-	font-size: 22px;
+	margin-left: -8px;
+	margin-top: -7px;
+	font-size: 28px;
 	display:block;	
+	height:75px;
+	padding-top: 15;
+	margin-right: -8;
+	background-color: rgb(255, 255, 255);
+	box-shadow: 0 0 10px 0 rgb(0,0,0,0,0.5);
+	box-shadow: 0 0 26px 0 rgba(0,0,0,0.77);
 }
 h1{
 	display:inline;
+	margin-left: 123px;
+	margin-top:21px;
 
+	padding-left: 80;
+	color: rgb(177, 52, 4);
 }
 
 .heading
 {
-	color:green;
-	margin-left:-2px; 
+	color: rgb(248, 24, 24);
+	margin-left: -86px; 
 }
 .tabs
 {
-	margin-left:0px;
+	margin-left: -87px;
 	margin-top:10px;
 	background-color:rgb(198,206,198);
 	padding-left: 134px;
+	word-spacing: 5px;
 }
 
 .tabs li{
@@ -58,7 +69,8 @@ li.tab2{
 	display:block;
 	background-color: white;
 	height:1040px;
-	width:810px;
+	margin-left: 175;
+	width: 949px;
 	margin-top: 24px;
 	box-shadow: 0 0 30px 0 rgba(0,0,0,0.77);
 }
